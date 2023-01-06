@@ -1,6 +1,7 @@
 # liquid_swipe
 
 *Framework: flutter
+
 *Feature: animations
 
 ## Getting Started
