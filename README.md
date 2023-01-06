@@ -1,6 +1,7 @@
-# liuid_swipe
+# liquid_swipe
 
-A new Flutter project.
+*Framework: flutter
+*Feature: animations
 
 ## Getting Started
 
