@@ -2,7 +2,9 @@
 
 *Framework: flutter
 
-*Feature: animations
+- liquid swipe
+
+- blinking text
 
 ## Getting Started
 
