@@ -2,7 +2,7 @@
 
 *Framework: flutter
 
-- liquid swipe
+- liquid swipes
 
 - blinking text
 
