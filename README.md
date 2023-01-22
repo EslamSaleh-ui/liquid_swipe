@@ -1,6 +1,6 @@
 # liquid_swipe
 
-*Framework: flutter
+* Framework: flutter
 
 - liquid swipes
 
